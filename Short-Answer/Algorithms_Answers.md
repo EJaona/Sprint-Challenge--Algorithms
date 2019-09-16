@@ -2,13 +2,15 @@
 
 ## Exercise I
 
-a)
+a) The first example would be O(1)
+   Constant time
 
 
-b)
+b) Second would be O(n^2)
+   Quadratic time
 
 
-c)
+c)  Third would be O(n)
 
 ## Exercise II
 
